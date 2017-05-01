@@ -10,3 +10,6 @@
    * The installation is very easy and doesn't require intervention
    * It only uses macOS commands
    * https://github.com/rgcr/m-cli
+## xcode
+   * anyway...
+  
