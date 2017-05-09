@@ -3,6 +3,8 @@
    
 ## sublime
    * https://github.com/vishnevskiy/ElixirSublime
+### sublime plugins
+   * package manager.
    
 ## m-cli 
    * Its main purpose is to manage administrative tasks and do it easier
@@ -10,6 +12,7 @@
    * The installation is very easy and doesn't require intervention
    * It only uses macOS commands
    * https://github.com/rgcr/m-cli
+   
 ## xcode
    * anyway...
   
