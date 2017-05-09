@@ -13,3 +13,9 @@
 ## xcode
    * anyway...
   
+## xcode plugins
+### https://github.com/ricobeck/KFCocoaPodsPlugin 
+   * Check for outdated Pods from Xcode
+   * Run Update/Install from Xcode
+   * Output of the supported Commands appears in the Xcode Debug Console
+   * Edit you Podfile with code completion (Pods and versions are taken from the installed CocoaPods Repos)
