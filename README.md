@@ -22,3 +22,6 @@
    * Run Update/Install from Xcode
    * Output of the supported Commands appears in the Xcode Debug Console
    * Edit you Podfile with code completion (Pods and versions are taken from the installed CocoaPods Repos)
+## stockmagic
+Stockmagic is a free tiny app that lives in your menu bar. Get instant access to Pixabay’s large photo database and find high quality​ free images for your next project.
+http://getstockmagic.com/?utm_source=BetaList
