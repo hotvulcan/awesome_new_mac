@@ -29,5 +29,7 @@ http://getstockmagic.com/?utm_source=BetaList
 ## jupyter
 
 #pixiedust
-https://ibm-cds-labs.github.io/pixiedust/displayapi.html
-PixieDust lets you visualize your data in just a few clicks. 
+
+ * https://ibm-cds-labs.github.io/pixiedust/displayapi.html
+ * pip3 install pixiedust
+ * PixieDust lets you visualize your data in just a few clicks. 
