@@ -25,3 +25,9 @@
 ## stockmagic
 Stockmagic is a free tiny app that lives in your menu bar. Get instant access to Pixabay’s large photo database and find high quality​ free images for your next project.
 http://getstockmagic.com/?utm_source=BetaList
+
+## jupyter
+
+#pixiedust
+https://ibm-cds-labs.github.io/pixiedust/displayapi.html
+PixieDust lets you visualize your data in just a few clicks. 
