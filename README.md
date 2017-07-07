@@ -28,12 +28,12 @@ http://getstockmagic.com/?utm_source=BetaList
 
 ## jupyter
 
-#pixiedust
+### pixiedust
 
  * https://ibm-cds-labs.github.io/pixiedust/displayapi.html
  * pip3 install pixiedust
  * PixieDust lets you visualize your data in just a few clicks. 
-#mysql kernel 
+### mysql kernel 
  * https://github.com/mmisono/ipython_mysql_kernel
  * pip3 install git+https://github.com/mmisono/ipython_mysql_kernel
  * vi ~/.ipython/mysql_config.json
@@ -43,6 +43,7 @@ http://getstockmagic.com/?utm_source=BetaList
  *   "host"     : "127.0.0.1",
  *   "charset"  : "utf8"
  * }
-#python liberies
+# languages
+## python
 * https://pexpect.readthedocs.io/en/stable/overview.html
 * pexpect, expect for python.
