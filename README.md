@@ -43,3 +43,6 @@ http://getstockmagic.com/?utm_source=BetaList
  *   "host"     : "127.0.0.1",
  *   "charset"  : "utf8"
  * }
+#python liberies
+* https://pexpect.readthedocs.io/en/stable/overview.html
+* pexpect, expect for python.
